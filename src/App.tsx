@@ -25,6 +25,7 @@ function App() {
         >
           Learn React{add(1, count)}
         </a>
+        <h1>Hello test</h1>
         <button onClick={handleIncrement}>Increase</button>
       </header>
     </div>
